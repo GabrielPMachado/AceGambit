@@ -10,4 +10,5 @@ Além disso, o cassino integrado oferece uma experiência de entretenimento. Os 
 
 É importante ressaltar que AceGambit é apenas um projeto fictício criado para fins de aprendizado e não representa uma entidade real ou em funcionamento. Este projeto é uma oportunidade de explorar ideias criativas e conceitos de negócios de forma educacional e imaginativa.
 
-Olá
+
+Apaguei
