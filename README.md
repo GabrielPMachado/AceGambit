@@ -9,5 +9,3 @@ O AceGambit oferece uma variedade de serviços financeiros, como conta corrente,
 Além disso, o cassino integrado oferece uma experiência de entretenimento. Os clientes têm a oportunidade de desfrutar de jogos emocionantes enquanto gerenciam suas finanças pessoais.
 
 É importante ressaltar que AceGambit é apenas um projeto fictício criado para fins de aprendizado e não representa uma entidade real ou em funcionamento. Este projeto é uma oportunidade de explorar ideias criativas e conceitos de negócios de forma educacional e imaginativa.
-
-Olá.
