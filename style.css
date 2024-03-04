@@ -1,7 +1,41 @@
-section#dsisdopsa {
+/*  CORES  */
+/* #36BFB1 -> LOGO */ 
+/* #038C73 -> MUITO ESCURA */
+/* #02735E -> IGUAL ^ */
+/* #014034 -> ESCURA ATÉ DMS */
 
+/* #F3E3D4 -> SINONIMO BOM DE BRANCO */
+/* #3CA6A6 -> TALVEZ MENOS VIBRÂNCIA */
+/* #026673 -> ÓTIMA COR */
+/* #024A59 -> TO GOSTANDO DESSA PALETA */
+/* #012E41 -> PERFEITO PRA LOGO! */
+
+/* #F2A71A -> PERFEITA PRA FAZER CONTRASTE!!!*/
+
+@import url('https://fonts.googleapis.com/css2?family=Madimi+One&display=swap');
+
+* {
+    font-family: "Madimi One", sans-serif;
 }
 
-section#idopsdoasjdijsa {
-    
+body {
+    background-color: #0f1923;
+}
+
+header {
+    background-color: #F2A71A;
+    border-radius: 100px;
+    padding: 34px;
+    box-shadow: 3px 3px 10px #36BFB1;
+}
+
+div {
+    text-align: center;
+}
+
+img#logoheader {
+    width: 15%;
+    position: absolute;
+    top: 0.2%;
+    left: 5%;
 }
